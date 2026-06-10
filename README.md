@@ -11,14 +11,14 @@ Je crée des solutions modernes, performantes et user-focused.
 
 ## 📁 Projets principaux
 
-- **[LOL Crafter](https://github.com/tonnom/lol-crafting-build)** — Outil de théorycraft League of Legends  
+<!--- **[LOL Crafter](https://github.com/tonnom/lol-crafting-build)** — Outil de théorycraft League of Legends  
   Vanilla JS, visualisation temps réel, déployé sur Vercel
   
 - **[AnimListe](https://github.com/tonnom/animliste)** — Gestionnaire de listes anime  
   Vue.js, gestion d'état, interface moderne
   
 - **[Portfolio](https://tonnom-portfolio.vercel.app)** — Site professionnel  
-  React + Vite + Tailwind CSS, SEO & performance optimisés
+  React + Vite + Tailwind CSS, SEO & performance optimisés -->
 
 ## 💼 Disponible pour
 
@@ -27,7 +27,7 @@ Je crée des solutions modernes, performantes et user-focused.
 
 ## 📧 Contact
 
-[Email] | [LinkedIn] | [Portfolio](https://tonnom-portfolio.vercel.app)
+[Email](clement.brito@outlook.fr) | [LinkedIn](www.linkedin.com/in/clément-brito-5972342aa) | [Portfolio](https://tonnom-portfolio.vercel.app)
 
 ---
 
